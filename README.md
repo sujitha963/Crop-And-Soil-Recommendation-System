@@ -57,3 +57,7 @@ Graph:
 3.Climate Feature Distributions
 
 <img width="1189" height="990" alt="Image" src="https://github.com/user-attachments/assets/b0d30fba-2761-42b8-a8c2-7ce82daab5e9" />
+
+4.Correlation Heatmap
+
+<img width="710" height="601" alt="Image" src="https://github.com/user-attachments/assets/9bbedc63-c312-4f79-b971-ce3c0dff885d" />
