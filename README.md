@@ -43,3 +43,9 @@ Built a recommendation function for practical usage.
 🌱 Overall Review
 
 The project successfully demonstrates how artificial intelligence and agriculture can work together to solve real-world problems. By transforming soil and climate data into actionable insights, this system provides reliable crop recommendations, improves efficiency in agriculture, and highlights the impact of data-driven decision-making in farming practices.
+
+Graph:
+
+1.Count Of Samples per crop
+
+<img width="1073" height="547" alt="Image" src="https://github.com/user-attachments/assets/aa89cac5-c960-493e-b483-e81bf7b9d7d3" />
