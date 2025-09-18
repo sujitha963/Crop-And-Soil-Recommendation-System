@@ -53,3 +53,7 @@ Graph:
 2.Soil Nutrient Distributions
 
 <img width="1489" height="490" alt="Image" src="https://github.com/user-attachments/assets/e0631e5d-6ada-4786-ba63-76a3fd23176d" />
+
+3.Climate Feature Distributions
+
+<img width="1189" height="990" alt="Image" src="https://github.com/user-attachments/assets/b0d30fba-2761-42b8-a8c2-7ce82daab5e9" />
