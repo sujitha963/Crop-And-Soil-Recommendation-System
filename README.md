@@ -66,3 +66,7 @@ Graph:
 
 <img width="1160" height="627" alt="Image" src="https://github.com/user-attachments/assets/0f18b479-46da-4338-ada2-808edad364ad" />
 
+6.Pairplot of Features
+
+<img width="1881" height="1780" alt="Image" src="https://github.com/user-attachments/assets/5fc6db75-315a-4679-ac4f-213cf66e85cf" />
+
