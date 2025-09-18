@@ -4,7 +4,7 @@ This project focuses on building a Crop and Soil Recommendation System that comb
 
 🔑 Key Features
 
-1. Dataset Integration: Uses CASL dataset with essential parameters like Nitrogen, Phosphorus, Potassium, pH, temperature, humidity, and rainfall.
+1. Dataset Integration: Uses Kaggle dataset with essential parameters like Nitrogen, Phosphorus, Potassium, pH, temperature, humidity, and rainfall.
 
 
 2. Exploratory Data Analysis: Identifies relationships between soil nutrients, weather, and crop yield patterns.
