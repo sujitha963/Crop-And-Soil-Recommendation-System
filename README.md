@@ -49,3 +49,7 @@ Graph:
 1.Count Of Samples per crop
 
 <img width="1073" height="547" alt="Image" src="https://github.com/user-attachments/assets/aa89cac5-c960-493e-b483-e81bf7b9d7d3" />
+
+2.Soil Nutrient Distributions
+
+<img width="1489" height="490" alt="Image" src="https://github.com/user-attachments/assets/e0631e5d-6ada-4786-ba63-76a3fd23176d" />
