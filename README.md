@@ -64,3 +64,5 @@ Graph:
 
 5.Rainfall Requirements by crop
 
+<img width="1160" height="627" alt="Image" src="https://github.com/user-attachments/assets/0f18b479-46da-4338-ada2-808edad364ad" />
+
