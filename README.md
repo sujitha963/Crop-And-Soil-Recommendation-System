@@ -61,3 +61,6 @@ Graph:
 4.Correlation Heatmap
 
 <img width="710" height="601" alt="Image" src="https://github.com/user-attachments/assets/9bbedc63-c312-4f79-b971-ce3c0dff885d" />
+
+5.Rainfall Requirements by crop
+
